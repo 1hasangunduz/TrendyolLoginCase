@@ -1,0 +1,10 @@
+com/basepages/BaseTest.class
+com/data/GetData$TRENDYOL_REGISTER_DATA.class
+com/utility/Log.class
+com/trendyolpages/Services.class
+com/data/GetData$TRENDYOL_LOGIN_DATA.class
+com/trendyolpages/TrendyoLoginPage.class
+com/driver/DriverManager.class
+com/basepages/SeleniumBasePage.class
+com/data/GetData.class
+com/data/GetData$TRENDYOL_LOGIN_ROUTE.class
